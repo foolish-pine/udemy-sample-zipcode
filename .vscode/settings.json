@@ -1,0 +1,15 @@
+{
+  "debug.internalConsoleOptions": "openOnSessionStart",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "quickfix.insertSemicolon": "explicit",
+    "source.organizeImports": "explicit",
+  }
+}
